@@ -1,0 +1,160 @@
+2025-04-19 19:32:25,701 - data_preprocessing - DEBUG - Data loaded properly
+2025-04-19 19:32:25,702 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-04-19 19:32:25,709 - data_preprocessing - DEBUG - Target column encoded
+2025-04-19 19:32:25,715 - data_preprocessing - DEBUG - Duplicates removed
+2025-04-19 19:32:25,717 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/sehar/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/share/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-19 19:32:25,717 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/sehar/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/share/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-19 19:35:53,360 - data_preprocessing - DEBUG - Data loaded properly
+2025-04-19 19:35:53,361 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-04-19 19:35:53,364 - data_preprocessing - DEBUG - Target column encoded
+2025-04-19 19:35:53,372 - data_preprocessing - DEBUG - Duplicates removed
+2025-04-19 19:35:53,373 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/sehar/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/share/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-19 19:35:53,373 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/sehar/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/share/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-19 19:36:14,137 - data_preprocessing - DEBUG - Data loaded properly
+2025-04-19 19:36:14,138 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-04-19 19:36:14,140 - data_preprocessing - DEBUG - Target column encoded
+2025-04-19 19:36:14,144 - data_preprocessing - DEBUG - Duplicates removed
+2025-04-19 19:36:14,145 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/sehar/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/share/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-19 19:36:14,145 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/sehar/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/share/nltk_data'
+    - '/home/sehar/MLOPS/MLOPS-ML-PIPELINE-DVC-S3/experiemnts/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-19 19:36:42,670 - data_preprocessing - DEBUG - Data loaded properly
+2025-04-19 19:36:42,670 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-04-19 19:36:42,673 - data_preprocessing - DEBUG - Target column encoded
+2025-04-19 19:36:42,678 - data_preprocessing - DEBUG - Duplicates removed
+2025-04-19 19:36:47,740 - data_preprocessing - DEBUG - Text column transformed
+2025-04-19 19:36:47,740 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-04-19 19:36:47,740 - data_preprocessing - DEBUG - Target column encoded
+2025-04-19 19:36:47,742 - data_preprocessing - DEBUG - Duplicates removed
+2025-04-19 19:36:49,033 - data_preprocessing - DEBUG - Text column transformed
+2025-04-19 19:36:49,047 - data_preprocessing - DEBUG - Processed data saved to ./data/interim
